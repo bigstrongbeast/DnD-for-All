@@ -1,2 +1,3 @@
 # DnD-for-All
-How to make DnD easy for onboarding 
+How to make DnD easy for onboarding.
+Easy
